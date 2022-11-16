@@ -52,11 +52,11 @@ Create character.
 
 When you have pipboy, open NAC X configuration holotape.
 
-  -Disable vignette (Visual Setting)
+  - Disable vignette (Visual Setting)
   
-  -Disable noise (Visual Setting)
+  - Disable noise (Visual Setting)
   
-  -Disable functional sunglasses (NAC Options Settings)
+  - Disable functional sunglasses (NAC Options Settings)
 
 
 Save and exit.
