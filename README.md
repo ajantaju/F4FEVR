@@ -29,7 +29,7 @@ Copy DLC from Fallout 4 To Fallout 4VR.
   - in /data/ folder copy all 32 files that start with DLC
 
 
-Run [Wabbajack.](https://www.wabbajack.org/)"Install before use!"
+Run [Wabbajack.](https://www.wabbajack.org/ "Remember to install!")
 
 
   - Find F4FEVR (in Fallout4VR and check "show unofficial lists") and install into same hard drive where Fallout 4VR is (Make new folder "WabbaF4FEVR" to disks root)
