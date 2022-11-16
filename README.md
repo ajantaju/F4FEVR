@@ -74,7 +74,7 @@ Load your game.
 Enjoy your adventure!
 
 
-###Notes:
+### Notes:
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase.
 
 For Valve index i use for now "2022 Best Index Controllers" profile from steamVR.
