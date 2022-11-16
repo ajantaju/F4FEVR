@@ -17,7 +17,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://authored-files.wabbajack.org/f4fevr_logo.jpg_45172bc8-fcb7-4cb4-a051-704e000b4bd4",
+      "image": "https://raw.githubusercontent.com/ajantaju/F4FEVR/main/f4fevr_logo.jpg",
       "readme": "https://github.com/ajantaju/F4FEVR",
       "download": "https://authored-files.wabbajack.org/F4FEVR.wabbajack_b6d49072-a526-4f63-b164-c1729d1ee62a",
       "machineURL": "LaskeumaKuume",
