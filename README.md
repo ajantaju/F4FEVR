@@ -1,7 +1,6 @@
 # F4FEVR
 Fundamental Evolutionary VR Wabbajack
 
-Hello world.
 
 ## Installation:
 
