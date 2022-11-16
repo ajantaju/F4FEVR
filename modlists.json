@@ -19,21 +19,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ajantaju/F4FEVR/main/f4fevr_2.webp",
       "readme": "https://github.com/ajantaju/F4FEVR",
-      "download": "https://authored-files.wabbajack.org/F4FEVR.wabbajack_d82b88f5-2d46-4f0a-85f7-71526698bf5d",
+      "download": "https://authored-files.wabbajack.org/F4FEVR.wabbajack_540c803e-6a00-4c31-8c6b-5a4374b518c6",
       "machineURL": "LaskeumaKuume",
       "discordURL": "https://discord.gg/Mn8FPYtGCK"
     },
     "download_metadata": {
-      "Hash": "U4QIWdViB0A=",
-      "Size": 477400,
+      "Hash": "i2e8Q9B8unI=",
+      "Size": 599295,
       "NumberOfArchives": 48,
       "SizeOfArchives": 3819408115,
       "NumberOfInstalledFiles": 3075,
-      "SizeOfInstalledFiles": 4717778185
+      "SizeOfInstalledFiles": 4717778183
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-11-16T17:51:04.459662Z",
+    "dateUpdated": "2022-11-16T18:24:03.5108966Z",
     "repositoryName": ""
   }
 ]
