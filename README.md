@@ -23,7 +23,7 @@ Run Fallout 4 VR once and change setting:
 ```
 Copy DLC from Fallout 4 To Fallout 4VR.
 
-  -in /data/ folder copy all 32 files that start with DLC
+  `-in /data/ folder copy all 32 files that start with DLC`
   
 Run Wabbajack.
 
@@ -46,13 +46,13 @@ Start new game.
 Create character.
 
 When you have pipboy, open NAC X configuration holotape.
-
+```
   -Disable vignette (Visual Setting)
   
   -Disable noise (Visual Setting)
   
   -Disable functional sunglasses (NAC Options Settings)
-
+```
 
 Save and exit.
 
@@ -64,7 +64,7 @@ Run F4FEVR from MO2.
 Load your game.
 
 
-  -Open FRIK holotape and calibrate.
+  `-Open FRIK holotape and calibrate.`
 
 
 Enjoy your adventure!
