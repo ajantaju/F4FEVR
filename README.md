@@ -3,7 +3,7 @@ Fundamental Evolutionary VR Wabbajack
 
 Hello world.
 
-# Installation:
+## Installation:
 
 
 Backup your /my games/fallout4vr/ folder.
@@ -14,12 +14,13 @@ Remember to delete your /my games/fallout4vr/ folder.
 
 Run Fallout 4 VR once and change setting:
 
-  -Item highlighting set to OFF
+```
+-Item highlighting set to OFF
   
-  -Character lighting set to OFF
+-Character lighting set to OFF
   
-  -TAA set to ON
-
+-TAA set to ON
+```
 Copy DLC from Fallout 4 To Fallout 4VR.
 
   -in /data/ folder copy all 32 files that start with DLC
