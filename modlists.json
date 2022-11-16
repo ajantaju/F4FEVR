@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "F4FEVR",
     "description": "Fundamental Evolutionary VR",
     "author": "Ajantaju",
@@ -8,30 +7,33 @@
       "github/ajantaju"
     ],
     "game": "fallout4vr",
+    "official": false,
     "tags": [
       "testing",
       "VR"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ajantaju/F4FEVR/main/f4fevr_logo.jpg",
       "readme": "https://github.com/ajantaju/F4FEVR",
-      "download": "https://authored-files.wabbajack.org/F4FEVR.wabbajack_b6d49072-a526-4f63-b164-c1729d1ee62a",
+      "download": "https://authored-files.wabbajack.org/F4FEVR.wabbajack_d82b88f5-2d46-4f0a-85f7-71526698bf5d",
       "machineURL": "LaskeumaKuume",
       "discordURL": "https://discord.gg/Mn8FPYtGCK"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "mSRO8u1jeq4=",
-      "Size": 474466,
+      "Hash": "U4QIWdViB0A=",
+      "Size": 477400,
       "NumberOfArchives": 48,
       "SizeOfArchives": 3819408115,
       "NumberOfInstalledFiles": 3075,
-      "SizeOfInstalledFiles": 4717778166
+      "SizeOfInstalledFiles": 4717778185
     },
-    "version": "0.1.0"
+    "version": "0.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-11-16T17:51:04.459662Z",
+    "repositoryName": ""
   }
 ]
