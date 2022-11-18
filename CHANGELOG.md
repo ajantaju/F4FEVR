@@ -12,6 +12,10 @@
 
 - Armor workbench CTD
 
+### Tweaks
+
+- Changed PipboyLightInvFix = false. Workaround for CTD on flashlight activation.
+
 ## 0.1.3
 
 ### Released: `17/11/2022`
