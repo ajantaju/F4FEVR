@@ -71,8 +71,12 @@ Load your game.
 
 - Open FRIK holotape and calibrate.
 
-
 Enjoy your adventure!
+
+##Tips
+
+- Do not save in power armor.
+- Power armor helmet can be configured with PA Helmet Configuration holotape.
 
 
 ### Notes:
