@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.1.4
+
+### Released: `18/11/2022`
+
+### Added
+
+- Kabuto VR
+- 
+### Fixed
+
+- Armorworkbench CTD
+
 ## 0.1.3
 
 ### Released: `17/11/2022`
