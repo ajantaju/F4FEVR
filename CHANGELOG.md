@@ -7,7 +7,7 @@
 ### Added
 
 - Kabuto VR
-- 
+
 ### Fixed
 
 - Armorworkbench CTD
