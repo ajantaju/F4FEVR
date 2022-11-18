@@ -79,7 +79,7 @@ Enjoy your adventure!
 - Power armor helmet can be configured with PA Helmet Configuration holotape.
 
 
-### Notes:
+## Notes:
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase.
 
 For Valve index i use for now "2022 Best Index Controllers" profile from steamVR.
