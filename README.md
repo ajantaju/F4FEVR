@@ -73,7 +73,7 @@ Load your game.
 
 Enjoy your adventure!
 
-##Tips
+## Tips
 
 - Do not save in power armor.
 - Power armor helmet can be configured with PA Helmet Configuration holotape.
