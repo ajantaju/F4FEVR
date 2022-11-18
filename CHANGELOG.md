@@ -10,7 +10,7 @@
 
 ### Fixed
 
-- Armorworkbench CTD
+- Armor workbench CTD
 
 ## 0.1.3
 
