@@ -7,8 +7,6 @@ DLCRobot.esm
 DLCworkshop01.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
-M8rDisablePipboyEffects.esp
-M8r_Item_Tags_Vanilla_EN.esp
 M8rLargerRollover.esp
 SKKFastStartNewGame.esp
 Unofficial Fallout 4 Patch.esp
@@ -44,3 +42,6 @@ SS2.esm
 SS2Extended.esp
 SS2_XPAC_Chapter2.esm
 VRCP_SS2.esp
+M8r_Item_Tags_VR_NoDLCs_Std_EN.esp
+KabutoVR.esp
+FRIK.esp
