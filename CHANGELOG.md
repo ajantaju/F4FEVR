@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.1.5
+
+### Released: `19/11/2022`
+
+### Updated
+
+- VR Weaponm Overhaul
+
+### Removed
+
+- See Throught Scopes
+
 ## 0.1.4
 
 ### Released: `18/11/2022`
