@@ -1,12 +1,20 @@
 # Changelog
 
+## 0.1.6
+
+### Released: `19/11/2022`
+
+### Added
+
+- VR Weapons Overhaul Recon Fixes
+
 ## 0.1.5
 
 ### Released: `19/11/2022`
 
 ### Updated
 
-- VR Weaponm Overhaul
+- VR Weapons Overhaul
 
 ### Removed
 
