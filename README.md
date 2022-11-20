@@ -83,6 +83,6 @@ Enjoy your adventure!
 ## Notes:
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase.
 
-For Valve index i use for now "2022 Best Index Controllers" profile from steamVR.
+Made "FRIK F4FEVR" Valve Index controller profile to steamVR based on /u/rollingrock16 setup.
 
 I do not know what are good for other controllers.
