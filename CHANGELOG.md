@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.9
+
+### Released: `20/11/2022`
+
+### Tweaks
+
+- FRIK disabled by default. (Enabled crashes new game.)
+- Right Grip to interact UI fix disabled by default.
+
 ## 0.1.8
 
 ### Released: `20/11/2022`
