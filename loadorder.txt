@@ -50,6 +50,3 @@ KabutoVR.esp
 3dscopes-nukaworld.esp
 PipeScopes.esp
 FRIK.esp
-Flashy_PersonalEssentials.esp
-Another PIEne Forest.esp
-NACX-AN76-WeatherCompatibility.esp
