@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.11
+
+### Released: `20/11/2022`
+
+### Added
+
+- Virtual Chems
+- Virtual Holsters
+
+### Added as untested mods.
+
+- MCM VR
+- Portable Junk Recycler Mk 2 
 
 ## 0.1.10
 
