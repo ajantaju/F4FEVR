@@ -63,6 +63,7 @@ Save and exit.
 
 
 Activate FRIK in MO2.
+(Optional)Activate Virtual Chems[https://www.nexusmods.com/fallout4/mods/53625] and Virtual Holsters[https://www.nexusmods.com/fallout4/mods/51224]. (Please read the pages how to use them)
 
 Run F4FEVR from MO2.
 
@@ -75,6 +76,7 @@ Enjoy your adventure!
 
 ## Tips
 
+- You can visit mods Nexus page by right clicking on a mod on the list and selecting "Visit on Nexus" (3rd from the bottom)
 - Do not save in power armor.
 - Power armor helmet can be configured with PA Helmet Configuration holotape.
 - If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.
@@ -83,7 +85,7 @@ Enjoy your adventure!
 ## Testing Phase
 
 - Customize survival with Advanced Needs 76 Holotape. Do not select vanilla Survival difficulty if you want to use this. Activate in MO2 and start testing.
-
+- MCM and Portable Junk Recycler Mk 2 are added as untested mods, go test them!
 
 ## Notes:
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase.
