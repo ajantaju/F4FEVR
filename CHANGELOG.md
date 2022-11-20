@@ -2,6 +2,18 @@
 
 ## 0.1.6
 
+### Released: `20/11/2022`
+
+### Fixed
+
+- VR Weapon Overhaul Recon Fixes download error.
+
+### Tweaks
+
+- Changed BetterScopes.ini eyeOffset = 2.31 (Default 2.65) Seems good for Index/my eyes.
+
+## 0.1.6
+
 ### Released: `19/11/2022`
 
 ### Added
