@@ -1,6 +1,18 @@
 # Changelog
 
-## 0.1.6
+## 0.1.8
+
+### Released: `20/11/2022`
+
+### Added
+
+- Point Lookout
+- Full Dialog VR
+- Flashy(JoeR) - Advanced Needs 76
+- Map Tweaks VR
+- Right Grip to Interact - UI fix
+
+## 0.1.7
 
 ### Released: `20/11/2022`
 
