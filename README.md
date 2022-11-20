@@ -78,11 +78,13 @@ Enjoy your adventure!
 - Do not save in power armor.
 - Power armor helmet can be configured with PA Helmet Configuration holotape.
 - If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.
+- Activate and customize survival with Advanced Needs 76 Holotape. Do not select vanilla Survival difficulty if you want to use this. Installed but not activated by default.
+- Activate "Right Grip to Interact - UI fix" in Optional files/MO2 if you use SteamVR to change right hands A and Grip buttons.
 
 
 ## Notes:
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase.
 
-Made "FRIK F4FEVR" Valve Index controller profile to steamVR based on /u/rollingrock16 setup.
+Made "FRIK F4FEVR" Valve Index controller profile to steamVR based on /u/rollingrock16 setup. Use "Right Grip to Interact - UI fix" with this.
 
 I do not know what are good for other controllers.
