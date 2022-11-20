@@ -62,8 +62,9 @@ When you have pipboy, open NAC X configuration holotape.
 Save and exit.
 
 
-Activate FRIK in MO2.
-(Optional)Activate [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster"). (Please read the pages how to use them)
+- Activate FRIK in MO2.
+
+- (Optional)Activate [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster"). (Please read the pages how to use them)
 
 Run F4FEVR from MO2.
 
