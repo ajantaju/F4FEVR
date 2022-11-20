@@ -77,6 +77,7 @@ Enjoy your adventure!
 
 - Do not save in power armor.
 - Power armor helmet can be configured with PA Helmet Configuration holotape.
+- If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.
 
 
 ## Notes:
