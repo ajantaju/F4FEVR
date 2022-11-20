@@ -1,5 +1,18 @@
 # Changelog
 
+
+## 0.1.10
+
+### Released: `20/11/2022`
+
+### Added
+
+- Cheat Terminal in optional to help testing
+
+### Tweaks
+
+- Advanced needs disabled for more testing. Brave souls may enable it and do some more testing.
+
 ## 0.1.9
 
 ### Released: `20/11/2022`
