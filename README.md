@@ -78,8 +78,11 @@ Enjoy your adventure!
 - Do not save in power armor.
 - Power armor helmet can be configured with PA Helmet Configuration holotape.
 - If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.
-- Activate and customize survival with Advanced Needs 76 Holotape. Do not select vanilla Survival difficulty if you want to use this. Installed but not activated by default.
 - Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR to change right hands A and Grip buttons.
+
+## Testing Phase
+
+- Customize survival with Advanced Needs 76 Holotape. Do not select vanilla Survival difficulty if you want to use this. Activate in MO2 and start testing.
 
 
 ## Notes:
