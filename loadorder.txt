@@ -3,15 +3,18 @@ Fallout4.esm
 Fallout4_VR.esm
 DLCCoast.esm
 DLCNukaWorld.esm
+CWPointLookoutFO4.esm
 DLCRobot.esm
 DLCworkshop01.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
 M8rLargerRollover.esp
 SKKFastStartNewGame.esp
+CWPointLookoutFO4Patch.esl
 Unofficial Fallout 4 Patch.esp
 DLCVR_NWFHFixes.esp
 WestTek_Thermal.esp
+VRCP_CWPointLookoutFO4.esp
 NAC-FH.esp
 NAC-NW.esp
 NAC.esp
@@ -46,3 +49,7 @@ M8r_Item_Tags_VR_NoDLCs_Std_EN.esp
 KabutoVR.esp
 3dscopes-nukaworld.esp
 PipeScopes.esp
+FRIK.esp
+Flashy_PersonalEssentials.esp
+Another PIEne Forest.esp
+NACX-AN76-WeatherCompatibility.esp
