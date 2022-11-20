@@ -63,7 +63,7 @@ Save and exit.
 
 
 Activate FRIK in MO2.
-(Optional)Activate Virtual Chems[https://www.nexusmods.com/fallout4/mods/53625] and Virtual Holsters[https://www.nexusmods.com/fallout4/mods/51224]. (Please read the pages how to use them)
+(Optional)Activate [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster"). (Please read the pages how to use them)
 
 Run F4FEVR from MO2.
 
