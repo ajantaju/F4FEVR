@@ -11,6 +11,7 @@ M8rLargerRollover.esp
 SKKFastStartNewGame.esp
 Unofficial Fallout 4 Patch.esp
 DLCVR_NWFHFixes.esp
+WestTek_Thermal.esp
 NAC-FH.esp
 NAC-NW.esp
 NAC.esp
@@ -35,7 +36,6 @@ No VATS Overhaul.esp
 dD-NoVATSDamageReduction.esp
 VATST_Targeting_SlowMo.esp
 3dscopes.esp
-WestTek_Thermal.esp
 Automatron Workbench Rebuild.esp
 WorkshopFramework.esm
 SS2.esm
@@ -44,4 +44,5 @@ SS2_XPAC_Chapter2.esm
 VRCP_SS2.esp
 M8r_Item_Tags_VR_NoDLCs_Std_EN.esp
 KabutoVR.esp
-FRIK.esp
+3dscopes-nukaworld.esp
+PipeScopes.esp
