@@ -84,8 +84,12 @@ Enjoy your adventure!
 - Power armor helmet can be configured with PA Helmet Configuration holotape.
 - If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.
 - Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR to change right hands A and Grip buttons.
-- Virtual holsters work like this: Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller. Hold Favorites button until bigger buzz, now the weapon is holstered. Now you can pick up the weapon with Grip Or A button. Same button to put the weapon pack to holster. To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon.
-- Virtual chems: With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
+- Virtual holsters:
+  - Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.
+  - Hold Favorites button until bigger buzz, now the weapon is holstered. Now you can pick up the weapon with Grip Or A button. Same button to put the weapon pack to holster.
+  - To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon.
+- Virtual chems:
+  - With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
 
 ## Testing Phase
 
