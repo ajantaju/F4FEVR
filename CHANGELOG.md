@@ -1,12 +1,28 @@
 # Changelog
 
+## 0.2.0
+
+### Released: `22/11/2022`
+
+### Added
+
+- Profiles! This is next step for adding more Mods and streamlining the install process.
+
+### Updated
+
+- VR Weapon Overhaul/VR Scope Model Fixes 3.2
+
+### Removed
+
+- VR Weapon Overhaul Recon Fixes
+
 ## 0.1.12
 
 ### Released: `22/11/2022`
 
 ### Added
 
--xEdit 4.0.4
+- xEdit 4.0.4
 
 ## 0.1.11
 
