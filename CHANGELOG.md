@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.12
+
+### Released: `22/11/2022`
+
+### Added
+
+-xEdit 4.0.4
+
 ## 0.1.11
 
 ### Released: `20/11/2022`
