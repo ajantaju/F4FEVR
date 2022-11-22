@@ -43,9 +43,9 @@ Copy the files from "Game Folder Files" to your Fallout 4VR game folder.
 
 Open MO2 that was just downloaded.
 
-Select profile "A New Start!" in MO2.
+- Select profile "A New Start!" in MO2.
 
-Run F4FEVR from MO2.
+- Run F4FEVR from MO2.
 
 
 Start new game.
@@ -68,12 +68,12 @@ Save and exit.
 
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
 
-Run F4FEVR from MO2.
+-Run F4FEVR from MO2.
 
 Load your game.
 
 
-- Open FRIK settings from pipboys misc section and calibrate.
+- Open FRIK settings from pipboys misc section and calibrate. Remember to save to ini when you have good settings.
 
 Enjoy your adventure!
 
