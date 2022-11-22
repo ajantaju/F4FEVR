@@ -86,7 +86,8 @@ Enjoy your adventure!
 - Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR to change right hands A and Grip buttons.
 - Virtual holsters:
   - Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.
-  - Hold Favorites button until bigger buzz, now the weapon is holstered. Now you can pick up the weapon with Grip Or A button. Same button to put the weapon pack to holster.
+  - Hold Favorites button until bigger buzz, now the weapon is assigned to that holster.
+  - Now you can pick up the weapon from holster with Grip Or A button.<sub>aka Use button, that opens doors</sub> Same button to put the weapon pack to holster.
   - To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon.
 - Virtual chems:
   - With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
