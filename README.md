@@ -64,7 +64,7 @@ When you have pipboy, open NAC X configuration holotape.
 Save and exit.
 
 
-- Select profile "Basic F4FEVR" in MO2.
+- Select profile "Basic F4FEVR" Or "F4FEVR Lore Guns" in MO2.
 
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
 
@@ -95,7 +95,7 @@ Enjoy your adventure!
 ## Testing Phase
 
 - Customize survival with Advanced Needs 76 Holotape. Do not select vanilla Survival difficulty if you want to use this. Activate in MO2 and start testing.
-- MCM and Portable Junk Recycler Mk 2 are added as untested mods, go test them!
+- Portable Junk Recycler Mk 2 is added as untested mod, go test them!
 
 ## Notes:
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase.
