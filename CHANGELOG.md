@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.2.1
+
+### Released: `28/11/2022`
+
+### Added
+
+- Frommer Stop Pistol
+- Rangemaster Remaster (Classic Hunting Rifle)
+- Remington Model 11 - Shotgun
+- Wattz Laser Gun
+- Varmint Rifle
+- CROSS_RugerMkV
+- DKS-501 Sniper Rifle - Standalone
+
+### Tweaks/Patches
+
+- FallUITweaks to show Settiongs icon for NAS.X, FRIK, KabutoVR and Virtual Chems/Holsters.
+
 ## 0.2.0
 
 ### Released: `22/11/2022`
