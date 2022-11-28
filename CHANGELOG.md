@@ -16,7 +16,7 @@
 
 ### Tweaks/Patches
 
-- FallUITweaks to show Settiongs icon for NAS.X, FRIK, KabutoVR and Virtual Chems/Holsters.
+- FallUITweaks to show Settings icon for NAS.X, FRIK, KabutoVR and Virtual Chems/Holsters.
 
 ## 0.2.0
 
