@@ -6,7 +6,7 @@
 
 ### Updated
 
-- Vr Weapons Overhaul 3.3
+- Vr Weapon Overhaul 3.3
 
 ### Fixed
 
