@@ -1,5 +1,22 @@
 # Changelog
 
+# 0.2.2
+
+### Released: `30/11/2022`
+
+### Updated
+
+- Vr Weapons Overhaul 3.3
+
+### Fixed
+
+- Nukaworld Disappearing floor textures.
+
+### Tweaks/Patches
+
+- Ruger and Rangemaster now have Item Sorter tags for FallUI
+- All DLC and Point Lookout should have Item Sorter tags for FallUI
+
 ## 0.2.1
 
 ### Released: `28/11/2022`
