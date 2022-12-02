@@ -1,5 +1,27 @@
 # Changelog
 
+# 0.2.3
+
+### Released: `2/12/2022`
+
+### Updated
+
+- Workshop Framework (2.3.2)
+- Sim Settlements 2 (2.2.5a)
+- Sim Settlements 2 - Chapter 2 (2.2.5)
+
+### Added
+
+- F4FEVR Intro/MainMenu Replacer
+
+### Removed
+
+-Time Lapse Main Menu Replacer
+
+### Tweaks
+
+- Added Vanilla-Custom Profile with everything disabled for testing/custom list.
+
 # 0.2.2
 
 ### Released: `30/11/2022`
