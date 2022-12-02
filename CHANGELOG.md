@@ -16,7 +16,7 @@
 
 ### Removed
 
--Time Lapse Main Menu Replacer
+- Time Lapse Main Menu Replacer
 
 ### Tweaks
 
