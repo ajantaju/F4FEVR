@@ -1,5 +1,15 @@
 # Changelog
 
+# 0.2.4
+
+### Released: `5/12/2022`
+
+### Added
+
+- Fallout Priority - f4se plugin
+- Weapons of Fate (Ballistics Overhaul)
+- Long Range Bullet Holes
+
 # 0.2.3
 
 ### Released: `2/12/2022`
