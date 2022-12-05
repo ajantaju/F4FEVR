@@ -81,7 +81,7 @@ Enjoy your adventure!
 
 - You can visit mods Nexus page by right clicking on a mod on the list and selecting "Visit on Nexus" (3rd from the bottom)
 - Do not save in power armor.
-- Power armor helmet can be configured with PA Helmet Configuration holotape.
+- Power armor helmet can be configured with KabutoVR/PA Helmet Configuration holotape.
 - If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.
 - Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR to change right hands A and Grip buttons.
 - Virtual holsters:
