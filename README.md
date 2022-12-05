@@ -98,7 +98,7 @@ Enjoy your adventure!
 - Portable Junk Recycler Mk 2 is added as untested mod, go test them!
 
 ## Notes:
-This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase. You could try downloading [Alternative versions](https://github.com/ajantaju/F4FEVR/tree/main/Alternatives) and update from the main branch.
+This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase. You could try downloading [Alternative versions](https://github.com/ajantaju/F4FEVR/tree/main/Alternatives) and then update from the main branch.
 
 Made "FRIK F4FEVR" Valve Index controller profile to steamVR based on /u/rollingrock16 setup. Use "Right Grip to Interact - UI fix" with this.
 
