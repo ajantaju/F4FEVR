@@ -64,7 +64,7 @@ When you have pipboy, open NAC X configuration holotape.
 Save and exit.
 
 
-- Select profile "Basic F4FEVR" Or "F4FEVR Lore Guns" in MO2.
+- Select profile "F4FEVR" in MO2.
 
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
 
