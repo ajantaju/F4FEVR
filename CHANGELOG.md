@@ -1,5 +1,21 @@
 # Changelog
 
+# 0.2.5
+
+### Released: `7/12/2022`
+
+### Added
+
+- Perk Up - Lightweight Perk Overhaul
+
+### Removed
+
+- Critical Hits Outside of VATS (included in Perk Up.)
+
+### Updater 
+
+- - Vr Weapon Overhaul 3.4
+
 # 0.2.4
 
 ### Released: `5/12/2022`
