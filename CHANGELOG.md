@@ -14,7 +14,7 @@
 
 ### Updater 
 
-- - Vr Weapon Overhaul 3.4
+- Vr Weapon Overhaul 3.4
 
 # 0.2.4
 
@@ -25,6 +25,10 @@
 - Fallout Priority - f4se plugin
 - Weapons of Fate (Ballistics Overhaul)
 - Long Range Bullet Holes
+
+### Removed
+
+- "Lore guns" profile. Made updating list tedious.
 
 # 0.2.3
 
