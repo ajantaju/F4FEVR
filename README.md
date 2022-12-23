@@ -9,7 +9,7 @@ Fundamental Evolutionary VR Wabbajack for Fallout4VR
 
 Backup your /my games/fallout4vr/ folder.
 
-Do fresh install of Fallout 4VR.
+Do fresh install of Fallout 4VR. Do not install under /Program Files/ directory, MO2 cannot access files that are in there.
 
 Remember to delete your /my games/fallout4vr/ folder.
 
@@ -52,7 +52,7 @@ Start new game.
 
 Create character.
 
-When you have pipboy, open NAC X configuration holotape.
+When you have pipboy, open NAC X configuration holotape (in Armor/Clothes section of the pipboy)
 
   - Disable vignette (Visual Setting)
   
@@ -68,7 +68,7 @@ Save and exit.
 
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
 
--Run F4FEVR from MO2.
+- Run F4FEVR from MO2.
 
 Load your game.
 
