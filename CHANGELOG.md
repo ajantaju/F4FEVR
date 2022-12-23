@@ -1,5 +1,24 @@
 # Changelog
 
+# 0.2.6
+
+### Released: `23/12/2022`
+
+### Added
+
+- VR FPS Stabilizer - Fallout (Disabled by default)
+- LOST Audio Tweaks (LAT)
+- Everyone's Best Friend (Dogmeat and Companion At Same Time)
+- Chemistry Station Renamed Crafting Workbench
+- Simple Immersive Chem Benches for Crafting
+- Resized 10mm Pistol Reworked
+- Scrap metal and makeshift welds - A Pipe Gun Retexture
+- WAVE - Wave Animation Vanilla Enhanced
+
+### Updated
+
+- Vr Weapon Overhaul 4.0
+
 # 0.2.5
 
 ### Released: `7/12/2022`
@@ -12,7 +31,7 @@
 
 - Critical Hits Outside of VATS (included in Perk Up.)
 
-### Updater 
+### Updated 
 
 - Vr Weapon Overhaul 3.4
 
