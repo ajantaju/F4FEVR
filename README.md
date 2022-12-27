@@ -6,12 +6,15 @@ Fundamental Evolutionary VR Wabbajack for Fallout4VR
 
 ## Installation:
 
+[Video instructions of clean installation for normal Fallout 4.](Video instructions of clean installation for normal Fallout 4.) Follow procedure but delete Fallout 4VR related folders.
 
 Backup your /my games/fallout4vr/ folder.
 
-Do fresh install of Fallout 4VR. Do not install under /Program Files/ directory, MO2 cannot access files that are in there.
+Delete your /my games/fallout4vr/ folder.
 
-Remember to delete your /my games/fallout4vr/ folder.
+Delete your appdata/local/fallout4vr/ folder.
+
+Do clean installation of Fallout 4VR. Do not install under /Program Files/ directory, MO2 cannot access files that are in there.
 
 Run Fallout 4 VR once and change setting:
 
