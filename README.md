@@ -6,7 +6,7 @@ Fundamental Evolutionary VR Wabbajack for Fallout4VR
 
 ## Installation:
 
-[Video instructions of clean installation for normal Fallout 4.](Video instructions of clean installation for normal Fallout 4.) Follow procedure but delete Fallout 4VR related folders.
+[Video instructions of clean installation for normal Fallout 4.](https://youtu.be/zwTJ3jImCiQ) Follow procedure but delete Fallout 4VR related folders.
 
 Backup your /my games/fallout4vr/ folder.
 
