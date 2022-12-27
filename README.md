@@ -107,3 +107,7 @@ This version does not include Luxor HD textures to keep download size reasonable
 Made "FRIK F4FEVR" Valve Index controller profile to steamVR based on /u/rollingrock16 setup. Use "Right Grip to Interact - UI fix" with this.
 
 I do not know what are good for other controllers.
+
+## Issues/Bugs
+
+- Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
