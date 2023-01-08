@@ -24,6 +24,8 @@ Run Fallout 4 VR once and change setting:
   - Character lighting set to OFF
   
   - TAA set to ON
+  
+  - Turn Off [Motion Smoothing](https://steamcommunity.com/app/250820/discussions/0/2251182852569611901/) in SteamVR.
 
 
 Copy DLC from Fallout 4 To Fallout 4VR.
