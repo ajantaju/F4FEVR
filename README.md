@@ -106,7 +106,7 @@ Enjoy your adventure!
 ## Notes:
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase. You could try downloading [Alternative versions](https://github.com/ajantaju/F4FEVR/tree/main/Alternatives) and then update from the main branch.
 
-Made "FRIK F4FEVR" Valve Index controller profile to steamVR based on /u/rollingrock16 setup. Use "Right Grip to Interact - UI fix" with this.
+Made ["FRIK F4FEVR"](https://raw.githubusercontent.com/ajantaju/F4FEVR/main/images/FRIKF4FEVRIndexController.png) Valve Index controller profile to steamVR based on /u/rollingrock16 setup. Use "Right Grip to Interact - UI fix" with this.
 
 I do not know what are good for other controllers.
 
