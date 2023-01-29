@@ -97,6 +97,7 @@ Enjoy your adventure!
   - To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon.
 - Virtual chems:
   - With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
+ - Join the F4FEVR [Discord](https://discord.gg/Mn8FPYtGCK) for terrible support.
 
 ## Testing Phase
 
