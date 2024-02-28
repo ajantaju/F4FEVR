@@ -1,5 +1,13 @@
 # Changelog
 
+# 0.2.7.2
+
+### Released: `29/2/2024`
+
+### HotFixed
+
+- Nothing, failed the separators in mo2.
+
 # 0.2.7.1
 
 ### Released: `28/2/2024`
