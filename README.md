@@ -44,7 +44,7 @@ Run [Wabbajack.](https://www.wabbajack.org/ "Remember to install!")
 
 Open folder where you installed.
 
-Copy the files from "Game Folder Files" to your Fallout 4VR game folder. If updating backup folder and do a clean install/verify files.
+Copy the files from "Game Folder Files" to your Fallout 4VR game folder. If updating backup folder and do a clean install/if deleting partially verify files.
 
 Open MO2 that was just downloaded.
 
