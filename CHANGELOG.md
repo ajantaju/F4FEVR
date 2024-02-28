@@ -42,7 +42,7 @@
 
 ### Testing
 
--Profiles, once again.
+- Profiles, once again.
 
 # 0.2.6
 
