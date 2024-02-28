@@ -1,5 +1,37 @@
 # Changelog
 
+# 0.2.7.1
+
+### Released: `28/2/2024`
+
+### Added
+
+- Bullet Time VATS VR
+- Disk Cache Enabler - F4VR
+- Hair Specular Map Removal Thingy
+- Wetness Shader Fix
+- Fallout4 Upscaler VR
+- Fog Remover - Performance Enhancer II
+- Fallout 4 Particle Patch - No More Glowing Objects
+- Gloomy Glass - All transparent materials revised
+
+###Removed
+
+- No VATS Overhaul
+- VR Neutral VATS
+- No VATS Damage Reduction
+- VATS Tweaks
+- VR Perf Kit (Remember to Delete the files if updating)
+
+### Updated
+
+- Buffout 4 NG
+- VR Address Library for F4SEVR
+- Workshop Framework
+- Sim Settlements 2 -All Chapters Pack
+- Fallout 4 VR Compatibility Patch for Sim Settlements 2
+- LOST Audio Tweaks
+
 # 0.2.6
 
 ### Released: `23/12/2022`
