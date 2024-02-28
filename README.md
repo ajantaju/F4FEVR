@@ -74,6 +74,7 @@ Save and exit.
 - Select profile "F4FEVR" "F4FEVR lite" or F4FEVR Lite-NoGuns" in MO2.
 
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
+- Configure [Bullet Time VATS VR](https://www.nexusmods.com/fallout4/mods/72502) via holotape.
 - (Optional) Enable and configure [Fallout4 Upscaler VR - DLSS FSR2 XeSS](https://www.nexusmods.com/fallout4/mods/73715) by pressing END button on keyboard.
 - ~~(Optional/Legacy) Enable [VR FPS Stabilizer](https://www.nexusmods.com/fallout4/mods/65961?tab=description) in VR Specific section. Default installation is set to 90 Hz, if you use different refresh rate (or opencomposite) you need to reinstall (right click/reinstall) ands select options that suit your setup.~~
 
