@@ -6,7 +6,7 @@
 
 ### HotFixed
 
-- Nothing, failed the separators in mo2.
+- Nothing, miserably failed tto fix the separators in mo2.
 
 # 0.2.7.1
 
