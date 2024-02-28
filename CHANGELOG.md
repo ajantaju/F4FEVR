@@ -40,6 +40,10 @@
 - Fallout 4 VR Compatibility Patch for Sim Settlements 2
 - LOST Audio Tweaks
 
+### Testing
+
+-Profiles, once again.
+
 # 0.2.6
 
 ### Released: `23/12/2022`
