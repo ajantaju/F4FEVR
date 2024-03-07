@@ -31,7 +31,7 @@
 - Fallout 4 Particle Patch - No More Glowing Objects
 - Gloomy Glass - All transparent materials revised
 
-###Removed
+### Removed
 
 - No VATS Overhaul
 - VR Neutral VATS
