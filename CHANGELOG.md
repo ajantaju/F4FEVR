@@ -1,5 +1,13 @@
 # Changelog
 
+# 0.2.7.3
+
+### Released: `7/2/2024`
+
+### Added
+
+- Papyrys Script tweak added to fallout4custom.ini
+  
 # 0.2.7.2
 
 ### Released: `29/2/2024`
