@@ -1,7 +1,13 @@
 ![F4FEVR](https://raw.githubusercontent.com/ajantaju/F4FEVR/main/f4fevr_2.webp)
 
 # F4FEVR
-Fundamental Evolutionary VR Wabbajack for Fallout4VR
+Fundamental Evolutionary VR Wabbajack for Fallout4VR.
+
+Features: Three profiles to choose from: Full F4FEVR, Lite and Lite-NoGuns.
+
+Mostly quality of life improvements/visual upgrading/bug fixes and mods that require tricky installations to work in VR. For example [FallUI](https://www.nexusmods.com/fallout4/mods/48758), [Sim Settlements 2]https://www.nexusmods.com/fallout4/mods/73394) and [Point Lookout](https://www.nexusmods.com/fallout4/mods/73394)
+
+Differences: Full includes [Another Pine Forest](https://www.nexusmods.com/fallout4/mods/54027) and [NAC X](https://www.nexusmods.com/fallout4/mods/46722) weather/lighting mod. Lite is more vanilla with [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) mod and pines disabled. Lite-NoGuns also disables 7 additional lore friendlyish weapon mods.
 
 
 ## Installation:
@@ -17,7 +23,6 @@ Delete your appdata/local/fallout4vr/ folder.
 Do clean installation of Fallout 4VR. Do not install under /Program Files/ directory, MO2 cannot access files that are in there.
 
 Run Fallout 4 VR once and change setting:
-
 
   - Item highlighting set to OFF
   
@@ -44,7 +49,7 @@ Run [Wabbajack.](https://www.wabbajack.org/ "Remember to install!")
 
 Open folder where you installed.
 
-Copy the files from "Game Folder Files" to your Fallout 4VR game folder. If updating backup game folder and delete unwanted files from game folder, then verify files with steam (or equivalent).
+Copy the files from "Game Folder Files" to your Fallout 4VR game folder. If updating: backup game folder and delete unwanted files from game folder, then verify files with steam (or equivalent).
 
 Open MO2 that was just downloaded.
 
@@ -57,7 +62,15 @@ Start new game.
 
 Create character.
 
-When you have pipboy, open NAC X configuration holotape (in Armor/Clothes section of the pipboy)
+When you get out of the vault it's time to decide which profile you are going to use. F4FEVR, Lite or NoGuns variant.
+
+While pondering this choice let the game run for about 5 minutes (for all the scripts to finish), then do a manual save and quit the game.
+
+- Select profile "F4FEVR" "F4FEVR lite" or F4FEVR Lite-NoGuns" in MO2 and run it.
+
+Load your manually saved game. (It's always good idea to save manually and load that game, instead of loading quick saves or autosaves from quitting. They can be, let's say "problematic" later.)
+
+If you have selected Full F4FEVR: open NAC X configuration holotape (in Armor/Clothes section of the pipboy)
 
   - Disable vignette (Visual Setting)
   
@@ -65,25 +78,14 @@ When you have pipboy, open NAC X configuration holotape (in Armor/Clothes sectio
   
   - Disable functional sunglasses (NAC Options Settings)
 
-If using Lite version ignore procedure.
+If using Lite versions ignore previous procedure, and continue.
 
-
-Save and exit.
-
-
-- Select profile "F4FEVR" "F4FEVR lite" or F4FEVR Lite-NoGuns" in MO2.
-
+- Open FRIK settings from pipboys misc section and calibrate. Remember to save to ini when you have good settings.
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
 - Configure [Bullet Time VATS VR](https://www.nexusmods.com/fallout4/mods/72502) via holotape.
 - (Optional) Enable and configure [Fallout4 Upscaler VR - DLSS FSR2 XeSS](https://www.nexusmods.com/fallout4/mods/73715) by pressing END button on keyboard.
 - ~~(Optional/Legacy) Enable [VR FPS Stabilizer](https://www.nexusmods.com/fallout4/mods/65961?tab=description) in VR Specific section. Default installation is set to 90 Hz, if you use different refresh rate (or opencomposite) you need to reinstall (right click/reinstall) ands select options that suit your setup.~~
-
-- Run F4FEVR from MO2.
-
-Load your game.
-
-
-- Open FRIK settings from pipboys misc section and calibrate. Remember to save to ini when you have good settings.
+- Save your game. All settings should be now saved and you can continue your game.
 
 Enjoy your adventure!
 
@@ -101,7 +103,7 @@ Enjoy your adventure!
   - To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon.
 - Virtual chems:
   - With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
- - Join the [F4FEVR Discord](https://discord.gg/Mn8FPYtGCK) for terrible support.
+ - Join the [F4FEVR Discord](https://discord.gg/Mn8FPYtGCK) for terrible support and customization tips.
  - Fork and do your own version of this! Also please fix my load order.
 
 ## Testing Phase
@@ -118,4 +120,4 @@ I do not know what are good for other controllers.
 
 ## Issues/Bugs
 
-- Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
+- Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff before starting new game or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
