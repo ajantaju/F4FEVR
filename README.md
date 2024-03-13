@@ -66,7 +66,7 @@ When you get out of the vault it's time to decide which profile you are going to
 
 While pondering this choice let the game run for about 5 minutes (for all the scripts to finish), then do a manual save and quit the game.
 
-- Select profile "F4FEVR" "F4FEVR lite" or F4FEVR Lite-NoGuns" in MO2 and run it.
+- Select profile "F4FEVR" "F4FEVR lite" or "F4FEVR Lite-NoGuns" in MO2 and run it.
 
 Load your manually saved game. (It's always good idea to save manually and load that game, instead of loading quick saves or autosaves from quitting. They can be, let's say "problematic" later.)
 
