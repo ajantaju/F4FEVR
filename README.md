@@ -5,7 +5,7 @@ Fundamental Evolutionary VR Wabbajack for Fallout4VR.
 
 Features: Three profiles to choose from: Full F4FEVR, Lite and Lite-NoGuns.
 
-Mostly quality of life improvements/visual upgrading/bug fixes and mods that require tricky installations to work in VR. For example [FallUI](https://www.nexusmods.com/fallout4/mods/48758), [Sim Settlements 2]https://www.nexusmods.com/fallout4/mods/73394) and [Point Lookout](https://www.nexusmods.com/fallout4/mods/73394)
+Mostly quality of life improvements/visual upgrading/bug fixes and mods that require tricky installations to work in VR. For example [FallUI](https://www.nexusmods.com/fallout4/mods/48758), [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/73394) and [Point Lookout](https://www.nexusmods.com/fallout4/mods/73394)
 
 Differences: Full includes [Another Pine Forest](https://www.nexusmods.com/fallout4/mods/54027) and [NAC X](https://www.nexusmods.com/fallout4/mods/46722) weather/lighting mod. Lite is more vanilla with [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) mod and pines disabled. Lite-NoGuns also disables 7 additional lore friendlyish weapon mods.
 
