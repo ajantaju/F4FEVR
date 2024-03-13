@@ -120,4 +120,4 @@ I do not know what are good for other controllers.
 
 ## Issues/Bugs
 
-- Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff before starting new game or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
+- Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff before starting a new game or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
