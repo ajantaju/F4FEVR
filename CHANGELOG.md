@@ -1,8 +1,17 @@
 # Changelog
 
+# 0.2.7.4
+
+### Released: `13/3/2024`
+
+### Fixed
+
+- Papyrys Script tweak added to fallout4custom.ini on all profiles now. Oops.
+- Disabled BSA-extractor plugin in MO2.
+
 # 0.2.7.3
 
-### Released: `7/2/2024`
+### Released: `7/3/2024`
 
 ### Added
 
@@ -14,7 +23,7 @@
 
 ### HotFixed
 
-- Nothing, miserably failed tto fix the separators in mo2.
+- Nothing, miserably failed to fix the separators in mo2.
 
 # 0.2.7.1
 
