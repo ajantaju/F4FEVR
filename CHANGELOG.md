@@ -1,5 +1,19 @@
 # Changelog
 
+# 0.2.7.5
+
+### Released: `28/3/2024`
+
+### Updated
+
+- Workshop Framework and Script override.
+- Sim Settlements 2.
+
+### Fixed
+
+- Fallout4Custom.ini had two Display sections, resulting an error in [CLASSIC](https://github.com/evildarkarchon/CLASSIC-Fallout4/releases).
+- Upscaler is now off by default. Game failed to launch on AMD GPUs and GTX cards. Remember to configurate it if updating.
+
 # 0.2.7.4
 
 ### Released: `13/3/2024`
