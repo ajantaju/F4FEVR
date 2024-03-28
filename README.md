@@ -83,7 +83,7 @@ If using Lite versions ignore previous procedure, and continue.
 - Open FRIK settings from pipboys misc section and calibrate. Remember to save to ini when you have good settings.
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
 - Configure [Bullet Time VATS VR](https://www.nexusmods.com/fallout4/mods/72502) via holotape.
-- (Optional) Enable and configure [Fallout4 Upscaler VR - DLSS FSR2 XeSS](https://www.nexusmods.com/fallout4/mods/73715) by pressing END button on keyboard.
+- (Optional) Enable and configure [Fallout4 Upscaler VR - DLSS FSR2 XeSS](https://www.nexusmods.com/fallout4/mods/73715) by pressing END button on keyboard. (Remember to turn on if updating.)
 - ~~(Optional/Legacy) Enable [VR FPS Stabilizer](https://www.nexusmods.com/fallout4/mods/65961?tab=description) in VR Specific section. Default installation is set to 90 Hz, if you use different refresh rate (or opencomposite) you need to reinstall (right click/reinstall) ands select options that suit your setup.~~
 - Save your game. All settings should be now saved and you can continue your game.
 
@@ -104,6 +104,7 @@ Enjoy your adventure!
 - Virtual chems:
   - With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
  - Join the [F4FEVR Discord](https://discord.gg/Mn8FPYtGCK) for terrible support and customization tips.
+ - When troubleshooting/modding an good idea is to make a copy of a profile and tinker with that. Also do some backups of your load order, there's a button in MO2 to do this.
  - Fork and do your own version of this! Also please fix my load order.
 
 ## Testing Phase
