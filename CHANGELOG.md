@@ -1,5 +1,22 @@
 # Changelog
 
+# 0.2.8
+
+### Released: `11/04/2024`
+
+### Added
+
+- Dogmeat - A True Companion
+- More Noticeable Hit Effect
+- Faster Terminal Displays
+- High FPS Physics Fix
+- EBF UFO4P compatibility fix
+- Set iVRUIRenderTargetHeight=4096;iVRUIRenderTargetWidth=4096 for UI to render at higher resolution.
+
+### Fixed
+
+- Full Dialog VR. Companions had missing icons. Disabled MultiActivateMenu.swf with "_" added to file name.
+
 # 0.2.7.5
 
 ### Released: `28/3/2024`
