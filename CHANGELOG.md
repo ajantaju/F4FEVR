@@ -11,11 +11,11 @@
 - Faster Terminal Displays
 - High FPS Physics Fix
 - EBF UFO4P compatibility fix
-- Set iVRUIRenderTargetHeight=4096;iVRUIRenderTargetWidth=4096 for UI to render at higher resolution.
 
 ### Fixed
 
 - Full Dialog VR. Companions had missing icons. Disabled MultiActivateMenu.swf with "_" added to file name.
+- Set iVRUIRenderTargetHeight=4096;iVRUIRenderTargetWidth=4096 for UI to render at higher resolution.
 
 # 0.2.7.5
 
