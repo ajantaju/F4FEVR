@@ -51,6 +51,8 @@ Open folder where you installed.
 
 Copy the files from "Game Folder Files" to your Fallout 4VR game folder. If updating: backup game folder and delete unwanted files from game folder, then verify files with steam (or equivalent).
 
+Open SteamVR.
+
 Open MO2 that was just downloaded.
 
 - Select profile "A New Start!" in MO2.
