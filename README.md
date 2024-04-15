@@ -32,6 +32,8 @@ Run Fallout 4 VR once and change setting:
   
   - Turn Off [Motion Smoothing](https://steamcommunity.com/app/250820/discussions/0/2251182852569611901/) in SteamVR.
 
+If you haven't to played the intro/tutorial, now would be a good time to do that. (Don't think too much what you put on your skills, we'll gonna do that for real later.)
+
 
 Copy DLC from Fallout 4 To Fallout 4VR.
 
@@ -62,7 +64,7 @@ Open MO2 that was just downloaded.
 
 Start new game.
 
-Create character.
+Create character. (Now you can think about skills and name for real.)
 
 When you get out of the vault it's time to decide which profile you are going to use. F4FEVR, Lite or NoGuns variant.
 
@@ -91,7 +93,7 @@ If using Lite versions ignore previous procedure, and continue.
 
 Enjoy your adventure!
 
-## Tips
+## Tips:
 
 - You can visit mods Nexus page by right clicking on a mod on the list and selecting "Visit on Nexus" (3rd from the bottom)
 - Do not save in power armor. Exit armor and save. Loading a save made in power armor will break the FRIK skeleton. Can be fixed by exiting armor and making a new save and loading that.
@@ -109,20 +111,22 @@ Enjoy your adventure!
  - When troubleshooting/modding an good idea is to make a copy of a profile and tinker with that. Also do some backups of your load order, there's a button in MO2 to do this.
  - Fork and do your own version of this! Also please fix my load order.
 
-## Testing Phase
+## Testing Phase:
 
 - Customize survival with Advanced Needs 76 Holotape. Do not select vanilla Survival difficulty if you want to use this. Activate in MO2 and start testing.
 - Portable Junk Recycler Mk 2 is added as untested mod, go test them!
 
 ## Notes:
+
 This version does not include Luxor HD textures to keep download size reasonable and fast as we're in testing phase. You could try downloading [Alternative versions](https://github.com/ajantaju/F4FEVR/tree/main/Alternatives) and then update from the main branch.
 
 Made ["FRIK F4FEVR"](https://raw.githubusercontent.com/ajantaju/F4FEVR/main/images/FRIKF4FEVRIndexController.png) Valve Index controller profile to steamVR based on /u/rollingrock16 setup. Use "Right Grip to Interact - UI fix" with this.
 
 I do not know what are good for other controllers.
 
-## Issues/Bugs
+## Issues/Bugs:
 
+- SteamVR must be launched before launching the game. Otherwise the virtual keyboard won't work and you can't write your characters name.
 - Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff before starting a new game or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
 - If "A new start"-profile works but others don't it is usually Upscaler issue. You may have gpu that doesn't support it. Disable "Fallout4 Upscaler VR - DLSS FSR2 XeSS" and "UpscalerBasePlugin" and try again.
 - AMD gpus and different windows versions seem to have problems with the Upscaler. You may need to manually change [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502?tab=files) to a different version. For Windowns 11 use version 1.1.0 and for Winsows 10 use version 1.1.2. Manually download the version you want to try. Right click on the UpscalerBasePlugin on MO2 and select "Open in Explorer". Next open your zip file you downloaded with something like [7-Zip](https://www.7-zip.org/). Now locate and overwrite "PDPerfPlugin.dll" with the one you downloaded from Nexus. (Hint: it's in the "UpscalerBasePlugin" folder.)
