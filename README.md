@@ -124,3 +124,6 @@ I do not know what are good for other controllers.
 ## Issues/Bugs
 
 - Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff before starting a new game or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
+- If "A new start"-profile works but others don't it is usually Upscaler issue. You may have gpu that doesn't support it. Disable "Fallout4 Upscaler VR - DLSS FSR2 XeSS" and "UpscalerBasePlugin" and try again.
+- AMD gpus and different windows versions seem to have problems with the Upscaler. You may need to manually change [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502?tab=files) to a different version. For Windowns 11 use version 1.1.0 and for Winsows 10 use version 1.1.2. Manually download the version you want to try. Right click on the UpscalerBasePlugin on MO2 and select "Open in Explorer". Next open your zip file you downloaded with something like [7-Zip](https://www.7-zip.org/). Now locate and overwrite "PDPerfPlugin.dll" with the one you downloaded from Nexus. (Hint: it's in the "UpscalerBasePlugin" folder.)
+- Power armor light/shadows are bonkers in the Full F4FEVR profile with NacX.
