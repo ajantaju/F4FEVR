@@ -1,5 +1,15 @@
 # Changelog
 
+# 0.2.8.1
+
+### Released: `19/04/2024`
+
+### Fixed
+
+- Disabled NAC-X Power Armor Dynamic light. Bugged and performance reasons.
+- Synth armor workbench CTD.
+- Enabled Disk Cache Enabler - F4VR.
+
 # 0.2.8
 
 ### Released: `11/04/2024`
