@@ -1,5 +1,18 @@
 # Changelog
 
+# 0.2.9
+
+### Released: `24/04/2024`
+
+### Updated
+
+- FRIK
+- VR Address Library for F4SEVR
+- Fallout Priority - f4se plugin
+- Workshop Framework
+- Sim Settlements 2 - All Chapters Pack
+
+
 # 0.2.8.1
 
 ### Released: `19/04/2024`
