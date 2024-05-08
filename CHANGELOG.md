@@ -1,5 +1,26 @@
 # Changelog
 
+# 0.2.10
+
+### Released: `08/05/2024`
+
+### Added
+
+- Unofficial UFO4P VR Fix (Fixes synth armor CTD and some other things)
+- No BloodWorm MoleRats Scorpions Teleport-BugFix
+
+### Updated
+
+- FRIK v0.66
+- Workshop Framework
+- Sim Settlements 2 - All Chapters Pack
+- Item_Tags_F4FEVR_DLC_PL_LoreGuns_v2 (Synth Armor icons for the fixed ones.)
+
+### Removed
+
+- Synth_Armor_VR_Fix (Replaced by Unofficial UFO4P VR Fix)
+- Old versions of Workshop Framework and Sim Settlements being downloaded, increasing download size. (Oops!)
+
 # 0.2.9
 
 ### Released: `24/04/2024`
@@ -11,7 +32,6 @@
 - Fallout Priority - f4se plugin
 - Workshop Framework
 - Sim Settlements 2 - All Chapters Pack
-
 
 # 0.2.8.1
 
