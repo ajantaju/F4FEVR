@@ -125,7 +125,8 @@ I do not know what are good for other controllers.
 
 ## Issues/Bugs:
 
-- Do not save in power armor. Exit armor and save. Loading a save made in power armor will break the FRIK skeleton. Can be fixed by exiting armor and making a new save and loading that.
+- ~~Do not save in power armor. Exit armor and save. Loading a save made in power armor will break the FRIK skeleton. Can be fixed by exiting armor and making a new save and loading that.~~
+- FRIK Power armor helmet is sometimes visible/glitching in view.
 - SteamVR must be launched before launching the game. Otherwise the virtual keyboard won't work and you can't write your characters name.
 - Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff before starting a new game or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
 - If "A new start"-profile works but others don't it is usually Upscaler issue. You may have gpu that doesn't support it. Disable "Fallout4 Upscaler VR - DLSS FSR2 XeSS" and "UpscalerBasePlugin" and try again.
