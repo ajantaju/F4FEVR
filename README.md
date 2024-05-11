@@ -35,7 +35,7 @@ Run Fallout 4 VR once and change setting:
 If you haven't to played the intro/tutorial, now would be a good time to do that. (Don't think too much what you put on your skills, we'll gonna do that for real later.)
 
 
-Copy DLC from Fallout 4 To Fallout 4VR. [You need to downgrade flat Fallout 4 if you have downloaded "next-Gen" Updated files after 25/04/2024.](https://www.nexusmods.com/fallout4/mods/81630)
+Copy DLC from Fallout 4 To Fallout 4VR. [You need to downgrade flat Fallout 4 if you have downloaded "next-Gen" Updated files after 25/04/2024.](https://www.nexusmods.com/fallout4/mods/81630) and use the the "Downgrade By Downloading Depots" method.
 
 
   - in /data/ folder copy all 32 files that start with DLC.
