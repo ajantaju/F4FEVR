@@ -14,10 +14,10 @@ To disable Motion Smoothing on different VR platforms than SteamVR, follow these
    - Scroll down to "Performance settings."
    - Toggle off "Motion Smoothing."
 
-## 2. Oculus Quest (Using Oculus Link for PC VR)
+## 2. Meta Quest (Using Meta Quest Link for PC VR)
 
-1. **Open Oculus Software on PC:**
-   - Launch the Oculus software on your PC.
+1. **Open Meta Quest Link Software on PC:**
+   - Launch the Meta Quest Link software on your PC.
 
 2. **Access Settings:**
    - Click on "Devices" in the left sidebar.
@@ -25,7 +25,7 @@ To disable Motion Smoothing on different VR platforms than SteamVR, follow these
 
 3. **Graphics Preferences:**
    - Go to "Graphics Preferences."
-   - Here, you can adjust settings related to ASW (Asynchronous SpaceWarp) which is Oculus' motion smoothing technology.
+   - Here, you can adjust settings related to ASW (Asynchronous SpaceWarp) which is Meta's motion smoothing technology.
    - Set it to "Off" or customize it according to your preference.
 
 4. **Using Oculus Debug Tool:**
