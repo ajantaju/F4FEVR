@@ -30,7 +30,8 @@ Run Fallout 4 VR once and change setting:
   
   - TAA set to ON
   
-  - Turn Off [Motion Smoothing](https://steamcommunity.com/app/250820/discussions/0/2251182852569611901/) in SteamVR.
+  - Turn Off [Motion Smoothing](https://steamcommunity.com/app/250820/discussions/0/2251182852569611901/) in SteamVR. If you are not using a Valve headset, use [one of these](motion-smoothing.md) methods for your platform.
+
 
 If you haven't to played the intro/tutorial, now would be a good time to do that. (Don't think too much what you put on your skills, we'll gonna do that for real later.)
 
