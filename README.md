@@ -127,6 +127,8 @@ Made ["FRIK F4FEVR"](https://raw.githubusercontent.com/ajantaju/F4FEVR/main/imag
 
 I do not know what are good for other controllers.
 
+Tested with Valve Index and Quest 3/Steamlink.
+
 ## Issues/Bugs:
 
 - ~~Do not save in power armor. Exit armor and save. Loading a save made in power armor will break the FRIK skeleton. Can be fixed by exiting armor and making a new save and loading that.~~
