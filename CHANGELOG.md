@@ -1,5 +1,67 @@
 # Changelog
 
+# 0.3.0.4
+
+### Released: `12/12/2025`
+
+### Added
+
+- Comfort Swim VR 0.3.0
+- Classic Dogmeat a.k.a. Pirate 1.1
+- Dogmeat - Doors are NOT for Dogs (No Door Opening) 1.02
+- Dogmeat Follow Behind
+- Dogmeat Heterochromia iridum
+- Floppy Eared Dogmeat 1.2
+- Daytripper4 1.2.1
+- Creation Club Update for Fallout 4 VR -LITE
+- True Rain VR or Flat - including patch for True Storms 1.0
+- See Through Scopes 2.6.2
+- DOOMBASED Weapons Merged 1.3
+- Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged 2.0.1
+- DOOMMerged_Disabler 2.0.1
+- Custom Disabler for DOOMBASED Weapons Merged 1.0
+- xSE PluginPreloader F4 0.3
+- Place in Red VR v1.0.0
+- M8r98a4f2's Complex Item Sorter 1.12.0
+
+### Updated
+
+- F4SEVR 0.6.21
+- VR Address Library for F4SEVR 1.31.1
+- Buffout 4 NG with PDB support 1.37.0
+- Fallout Priority Next-Gen 4.0.1
+- FRIK 75
+- Virtual Holsters 3.0.7
+- Weapons of Fate (Ballistics Overhaul) 1.3.1
+- Gloomy Glass 1.2
+- Fallout 4 Particle Patch - No More Glowing Objects 1.3.2
+- LOST Audio Tweaks 6.0a
+- Wetness Shader Fix 3.6.3
+- Workshop Framework 2.4.9
+- Sim Settlements 2 - All Chapters Pack 3.5.0b
+- Advanced Needs 76 V1.8.9 (optional)
+
+### Removed
+
+- Unofficial Fallout 4 VR Fix (Not needed after Creation Club Update for Fallout 4 VR -LITE)
+- Fallout 4 VR Compatibility Patch for Point Lookout Script Fix (Fixed in Creation Club Update for Fallout 4 VR -LITE)
+- PipBoy VR light(FRIK has flashlights)
+- Fallout 4 Version Check Patcher (Daytripper4 has PluginVersionPatcher)
+- Edmond's Automatron VR Workbench Rebuild (Daytripper4 fixes Robot Workbench from Automatron DLC to work in VR)
+- DLCVR - Fallout 4 VR and DLC standalone bug fixes (Daytripper4 fixes issues)
+- Remington Model 11 - Shotgun (File size, no VR compatibility scopes)
+- CROSS_RugerMkV (Craftable at chem station, no VR scopes with Doommerged)
+- Frommer Stop Pistol (Annoyed that it was at a angle in workbench, no scope)
+
+### Notes
+
+- Rangemaster and Varmint Rifle disabled for compatibility reasons.
+- Better Scopes VR 0.6 Disabled (VR Compatibility Patch for DOOMBASED is much more accurate and has nice features.)
+
+### Fixes
+
+- Fixed DKS-501 Sniper Rifle CTD on startup (Renamed AnimTextData to _AnimTextData in Meshes folder)
+
 # 0.2.10
 
 ### Released: `08/05/2024`
