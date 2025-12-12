@@ -7,7 +7,7 @@ Features: Three profiles to choose from: Full F4FEVR, Lite and Lite-NoGuns.
 
 Mostly quality of life improvements/visual upgrading/bug fixes and mods that require tricky installations to work in VR. For example [FallUI](https://www.nexusmods.com/fallout4/mods/48758), [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/73394) and [Point Lookout](https://www.nexusmods.com/fallout4/mods/60330)
 
-Differences: Full includes [Another Pine Forest](https://www.nexusmods.com/fallout4/mods/54027) and [NAC X](https://www.nexusmods.com/fallout4/mods/46722) weather/lighting mod. Lite is more vanilla with [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) mod and pines disabled. Lite-NoGuns also disables 7 additional lore friendlyish weapon mods.
+Differences: Full includes [Another Pine Forest](https://www.nexusmods.com/fallout4/mods/54027) and [NAC X](https://www.nexusmods.com/fallout4/mods/46722) weather/lighting mod. Lite is more vanilla with [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) mod and pines disabled. Lite-NoGuns also disables additional lore friendlyish weapon mods.
 
 
 ## Installation:
@@ -88,6 +88,7 @@ If using Lite versions ignore previous procedure, and continue.
 - Open FRIK settings from pipboys misc section and calibrate. Remember to save to ini when you have good settings.
 - Read how to use and configure [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625/ "Configured with Holotape") and [Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/ "Hold favorites button to assign weapon to holster").
 - Configure [Bullet Time VATS VR](https://www.nexusmods.com/fallout4/mods/72502) via holotape.
+- (Optional) Unpack premade [Weapon offsets](https://github.com/ajantaju/F4FEVR/raw/refs/heads/main/Files/Weapons_Offsets.7z) to Location: %USERPROFILE%\Documents\My Games\Fallout4VR\FRIK_Config
 - (Optional) Enable and configure [Fallout4 Upscaler VR - DLSS FSR2 XeSS](https://www.nexusmods.com/fallout4/mods/73715) by pressing END button on keyboard. (Remember to turn on if updating.)
 - ~~(Optional/Legacy) Enable [VR FPS Stabilizer](https://www.nexusmods.com/fallout4/mods/65961?tab=description) in VR Specific section. Default installation is set to 90 Hz, if you use different refresh rate (or opencomposite) you need to reinstall (right click/reinstall) ands select options that suit your setup.~~
 - Save your game. All settings should be now saved and you can continue your game.
@@ -98,14 +99,16 @@ Enjoy your adventure!
 
 - You can visit mods Nexus page by right clicking on a mod on the list and selecting "Visit on Nexus" (3rd from the bottom)
 - Power armor helmet can be configured with KabutoVR/PA Helmet Configuration holotape.
-- If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.
-- Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR to change right hands A and Grip buttons.
-- Virtual holsters:
-  - Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.
-  - Hold Favorites button until bigger buzz, now the weapon is assigned to that holster.
-  - Now you can pick up the weapon from holster with Grip Or A button.<sup>aka "Use" button, same that opens doors.</sup> Same button to put the weapon pack to holster.
-  - To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon.
-- Virtual chems:
+- ~~If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.~~
+- Familiarize your self with new scope tech of [Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged](https://www.nexusmods.com/fallout4/mods/56405)
+- Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR or other to change right hands A and Grip buttons.
+- [Virtual holsters](https://www.nexusmods.com/fallout4/mods/51224):
+ - Watch this tutorial [video](https://youtu.be/QjGDyalE8kk)
+  ~~- Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.~~
+  ~~- Hold Favorites button until bigger buzz, now the weapon is assigned to that holster.~~
+  ~~- Now you can pick up the weapon from holster with Grip Or A button.<sup>aka "Use" button, same that opens doors.</sup> Same button to put the weapon pack to holster.~~
+  ~~- To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon.~~
+- Virtual chems: (Disabled for now, enable if you want to.)
   - With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
  - Join the [F4FEVR Discord](https://discord.gg/Mn8FPYtGCK) for terrible support and customization tips.
  - When troubleshooting/modding an good idea is to make a copy of a profile and tinker with that. Also do some backups of your load order, there's a button in MO2 to do this.
@@ -127,7 +130,7 @@ I do not know what are good for other controllers.
 ## Issues/Bugs:
 
 - ~~Do not save in power armor. Exit armor and save. Loading a save made in power armor will break the FRIK skeleton. Can be fixed by exiting armor and making a new save and loading that.~~
-- FRIK Power armor helmet is sometimes visible/glitching in view.
+- ~~FRIK Power armor helmet is sometimes visible/glitching in view.~~
 - SteamVR must be launched before launching the game. Otherwise the virtual keyboard won't work and you can't write your characters name.
 - Point Lookout is causing crashing in non-english versions of the game. Disable Point Lookout related stuff before starting a new game or [set game language to english.](https://youtu.be/kvmeHaTfquU?t=51)
 - If "A new start"-profile works but others don't it is usually Upscaler issue. You may have gpu that doesn't support it. Disable "Fallout4 Upscaler VR - DLSS FSR2 XeSS" and "UpscalerBasePlugin" and try again.
