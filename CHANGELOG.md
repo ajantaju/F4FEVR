@@ -1,5 +1,15 @@
 # Changelog
 
+# 0.3.0.5
+
+### Released: `12/12/2025`
+
+### Added
+
+- Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser (Forgot to enable when compiling, oops)
+
+# Changelog
+
 # 0.3.0.4
 
 ### Released: `12/12/2025`
