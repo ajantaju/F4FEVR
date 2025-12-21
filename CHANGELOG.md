@@ -5,12 +5,15 @@
 ### Released: `xx/xx/20xx`
 
 ### Added
-
 - Extended Dialogue Interface for VR 1.3.5
 
 ### Removed
 
 - Full Dialog VR
+
+### Updated
+
+- Mod Configuration Menu to use file from Nexus.
 
 # Changelog
 
