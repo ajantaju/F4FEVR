@@ -1,5 +1,19 @@
 # Changelog
 
+# 0.3.1
+
+### Released: `xx/xx/20xx`
+
+### Added
+
+- Extended Dialogue Interface for VR 1.3.5
+
+### Removed
+
+- Full Dialog VR
+
+# Changelog
+
 # 0.3.0.5
 
 ### Released: `12/12/2025`
