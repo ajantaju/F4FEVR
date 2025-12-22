@@ -1,5 +1,13 @@
 # Changelog
 
+# 0.3.2
+
+### Released: `xx/xx/20xx`
+
+### Updated
+
+- FRIK 0.77
+
 # 0.3.1
 
 ### Released: `xx/xx/20xx`
