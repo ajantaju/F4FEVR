@@ -1,5 +1,24 @@
 # Changelog
 
+# 0.3.1
+
+### Released: `24/12/2025`
+
+### Updated
+
+- FRIK 0.77
+- Mod Configuration Menu to use file from Nexus.
+
+### Added
+
+- Immersive Flashlight VR v0.8
+
+### Fixed
+
+- Flashlight Shadows. Added "bVrAllowFocusShadows=0" in [VRDisplay] Disabled "VR FPS Stabilizer - Fallout"
+
+# Changelog
+
 # 0.3.0.5
 
 ### Released: `12/12/2025`
