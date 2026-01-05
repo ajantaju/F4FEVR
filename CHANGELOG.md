@@ -21,7 +21,7 @@
 
 - Full Dialog VR
 - Older MCM_VR download from github
-- Portable Junk REcycler Mk 2 (Never worked because it was F4SE mod not intended for VR)
+- Portable Junk Recycler Mk 2 (Never worked because it was F4SE mod not intended for VR)
 
 ### Disabled
 
