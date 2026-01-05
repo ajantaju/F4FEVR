@@ -7,11 +7,25 @@
 ### Updated
 
 - FRIK 0.77.8
+- Workshop Framework 2.4.10
+- Sim Settlements 2 - All Chapters Pack 3.5.1
+- Lightweight Lighting - A weather and interior lighting overhaul 5.0.1
+
+### Added
+
+- XDI for Fallout 4 VR 1.3.5
+- SS2 - XDI Compatibility Patch 1.4.1
+- VRCP_CWPointLookoutFO4 - XDI Plugin Replacer 1.0.1
 
 ### Removed
 
+- Full Dialog VR
 - Older MCM_VR download from github
 - Portable Junk REcycler Mk 2 (Never worked because it was F4SE mod not intended for VR)
+
+### Disabled
+
+- Insignificant Object Remover (Reported Crashes when enabled, enable if you want to)
 
 # 0.3.1
 
