@@ -1,5 +1,18 @@
 # Changelog
 
+# 0.3.2
+
+### Released: `05/01/2026`
+
+### Updated
+
+- FRIK 0.77.8
+
+### Removed
+
+- Older MCM_VR download from github
+- Portable Junk REcycler Mk 2 (Never worked because it was F4SE mod not intended for VR)
+
 # 0.3.1
 
 ### Released: `24/12/2025`
@@ -17,8 +30,6 @@
 
 - Flashlight Shadows. Added "bVrAllowFocusShadows=0" in [VRDisplay] Disabled "VR FPS Stabilizer - Fallout"
 
-# Changelog
-
 # 0.3.0.5
 
 ### Released: `12/12/2025`
@@ -26,8 +37,6 @@
 ### Added
 
 - Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser (Forgot to enable when compiling, oops)
-
-# Changelog
 
 # 0.3.0.4
 
