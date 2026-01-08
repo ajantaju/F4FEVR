@@ -1,5 +1,21 @@
 # Changelog
 
+# 0.3.3.2
+
+### Released: `08/01/2026`
+
+### Updated
+
+- Daytripper 4 1.3.0
+
+# 0.3.3.1
+
+### Released: `08/01/2026`
+
+### Testing
+
+- "Fix"/Workaround/Reduced Crashing for "CombatBehaviorChangeCoverDirection::Update" CTD until better solution is implemented. (set FixRotationSpeed=false in HighFPSPhysicsFixVR.ini)
+
 # 0.3.3
 
 ### Released: `05/01/2026`
