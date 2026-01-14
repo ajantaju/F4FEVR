@@ -58,7 +58,8 @@
 
 ### Fixed
 
-- Flashlight Shadows. Added "bVrAllowFocusShadows=0" in [VRDisplay] Disabled "VR FPS Stabilizer - Fallout"
+- Flashlight Shadows. Added "bVrAllowFocusShadows=0" in [VRDisplay]
+- Disabled "VR FPS Stabilizer - Fallout"
 
 # 0.3.0.5
 
