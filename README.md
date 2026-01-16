@@ -101,7 +101,7 @@ Enjoy your adventure!
 - Power armor helmet can be configured with KabutoVR/PA Helmet Configuration holotape.
 - ~~If aiming with scopes seems off, edit BetterScopes.ini eyeOffset value (Default was 2.65) This may depend on headset and/or your pupil distance. You can also set your dominant eye here.~~
 - Familiarize your self with new scope tech of [Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged](https://www.nexusmods.com/fallout4/mods/56405)
-- Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR or other to change right hands A and Grip buttons.
+- ~~-Activate "Right Grip to Interact - UI fix" in Optional section/MO2 if you use SteamVR or other to change right hands A and Grip buttons.~~- Not in front of Haisenberg?
 - [Virtual holsters](https://www.nexusmods.com/fallout4/mods/51224):
  - Watch this tutorial [video](https://youtu.be/QjGDyalE8kk)
   ~~- Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.~~
