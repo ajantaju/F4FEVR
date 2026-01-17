@@ -1,5 +1,13 @@
 # Changelog
 
+# 0.3.3.3
+
+### Released: `17/01/2026`
+
+### Added
+
+- Heisenberg 0.6.7 on Lite
+
 # 0.3.3.2
 
 ### Released: `08/01/2026`
