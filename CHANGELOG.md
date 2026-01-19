@@ -22,7 +22,7 @@
 
 ### Updated
 
-- Daytripper 4 1.3.0
+- Daytripper4 1.3.0
 
 # 0.3.3.1
 
@@ -53,7 +53,7 @@
 
 - Full Dialog VR
 - Older MCM_VR download from github
-- Portable Junk Recycler Mk 2 (Never worked because it was F4SE mod not intended for VR)
+- Portable Junk Recycler Mk 2 (Never worked because it was F4SE mod not intended for VR?)
 
 ### Disabled
 
@@ -74,7 +74,8 @@
 
 ### Fixed
 
-- Flashlight Shadows. Added "bVrAllowFocusShadows=0" in [VRDisplay] Disabled "VR FPS Stabilizer - Fallout"
+- Flashlight Shadows. Added "bVrAllowFocusShadows=0" in [VRDisplay]
+- Disabled "VR FPS Stabilizer - Fallout"
 
 # 0.3.0.5
 
@@ -140,7 +141,7 @@
 ### Notes
 
 - Rangemaster and Varmint Rifle disabled for compatibility reasons.
-- Better Scopes VR 0.6 Disabled (VR Compatibility Patch for DOOMBASED is much more accurate and has nice features.)
+- Better Scopes VR 0.6 Disabled (VR Compatibility Patch for DOOMBASED is much more accurate and has nice features?)
 
 ### Fixes
 
