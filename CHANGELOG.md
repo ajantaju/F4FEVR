@@ -1,5 +1,13 @@
 # Changelog
 
+# 0.3.3.4
+
+### Released: `19/01/2026`
+
+### Updated
+
+- Daytripper4 1.4.1
+
 # 0.3.3.3
 
 ### Released: `17/01/2026`
